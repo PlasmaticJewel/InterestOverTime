@@ -31,8 +31,6 @@ public class CalculateInterestOverTime {
 		inputphrase("time in years of the investment");
 		double time = scanner.nextDouble(); // in Years
 
-		mistake
-		
 		// Begin calculations
 		
 		double money;
